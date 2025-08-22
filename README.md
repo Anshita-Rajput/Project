@@ -1,3 +1,3 @@
 # Project
-have a project in this respo
-fullstack project
+Have a fullstack project in this repo
+
